@@ -9,4 +9,4 @@
 
 ### Preview Link
 
-- *[View Here](https://ayaskanta-dev-the-quotes.netlify.app/)*
+- *[View Here](https://ayaskanta-dev.github.io/color-randomizer/)*
